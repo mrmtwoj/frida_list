@@ -20,3 +20,8 @@ frida -U -l [nameScript.js] -p [2305]
 > Note:
 `[.2305]` adb shell > ps
 `[nameScript.js]` this javaScript code
+
+## Hook AES And Convert VI , SECURITY CODE (use python ,  string.hex())
+```python
+python > b'dwc512w1d321wf74w5c4vwdcdxw32fd32w4f'.hex();
+```
