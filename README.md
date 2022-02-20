@@ -3,6 +3,9 @@
 ```sh
 pip install frida-tools
 ```
+## ❤
+https://frida.re/docs/home/
+
 ## Hook In PackageName
 ```sh
 frida -U -f [.comPackageName] -l [nameScript.js] --no-pause
