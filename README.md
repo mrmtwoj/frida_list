@@ -28,3 +28,6 @@ frida -U -l [nameScript.js] -p [2305]
 ```python
 python > b'dwc512w1d321wf74w5c4vwdcdxw32fd32w4f'.hex();
 ```
+
+## ADB RUN PAGE (Activity)
+adb shell am start -n android.app.com.bazar/android.app.com.bazar.ui.activity.login.LoginActivity
